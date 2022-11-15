@@ -1,0 +1,23 @@
+table {
+     opacity: 0.8;
+     width: 1300px;/*
+     margin-left: 275px;
+     margin-top: 250px;*/
+     color: white
+}
+tr{
+     
+     width: 1300px;/*
+     margin-left: 275px;
+     margin-top: 250px;*/
+}
+
+.box1{
+     width:1500px;
+     height: 650px;
+     background:rgb(248, 25, 25);
+     opacity: 0.8;
+     border:solid 3px black;
+     margin-left: 200px;
+     margin-top: 250px;
+}

@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+     background-image: url('https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/304894368_482666677202268_4561130519901585667_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mce8UV4cmZwAX_J_JpM&_nc_ht=scontent-qro1-2.xx&oh=00_AfCyd0Sg2Awix40hDE35_olfM0lakilj_mdLn_CxXCifBw&oe=636FE03D');
+     background-position: auto;  
+     background-size: 1873px 969px;
+     width: 1873px;
+     height: 969px;
+}
